@@ -1,6 +1,6 @@
 # Hi there, I'm PRADUL O P! 💫
 
-🔭 I’m currently working on ML Projects<br>👯 I’m looking to collaborate on ML and Data Science Projects<br>🤝 I’m looking for help with developing an automated waste classification system<br>🌱 I’m currently learning React and js<br>💬 Ask me about Ui designs and Machine Learning<br>⚡ Fun fact I Love Football
+🔭 I’m currently working on ML Projects<br>👯 I’m looking to collaborate on ML and Data Science Projects<br>🤝 I’m looking for help with developing an automated waste classification system<br>🌱 I’m currently learning React and Big Data<br>💬 Ask me about Ui designs and Machine Learning<br>⚡ Fun fact I Love Football
 
 
 ## 🌐 Socials:
